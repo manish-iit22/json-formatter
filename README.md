@@ -8,7 +8,7 @@ JSON Formatter is an AngularJS directive for rendering JSON objects in HTML with
 
 #### [Now also available in pure JavaScript with zero dependency!](https://github.com/mohsen1/json-formatter-js)
 
-## Usage
+## Usage(Carefully Read)
 
 * Install via Bower or npm
 
@@ -32,7 +32,7 @@ JSON Formatter is an AngularJS directive for rendering JSON objects in HTML with
   ```
 * `open` attribute accepts a number which indicates how many levels rendered JSON should be opened
 
-#### Configuration
+#### Configuration Steps
 
 You can use `JSONFormatterConfig` provider to configure JOSN Formatter.
 
